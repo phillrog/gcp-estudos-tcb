@@ -12,4 +12,4 @@ No entanto, eles precisavam dele em produção em uma semana. Assim que as conta
 
 # Arquivos utilizados
 
-[hands-on-tcb-bmc-gcp](~/exemplo/hands-on-tcb-bmc-gcp.zip)
+[hands-on-tcb-bmc-gcp](/exemplo/hands-on-tcb-bmc-gcp.zip)
